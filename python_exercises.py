@@ -146,21 +146,3 @@ psgr_list.sort()
 
 for k in psgr_list:
     print(k)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
