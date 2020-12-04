@@ -65,13 +65,6 @@ print(Ebob(sayi_1,sayi_2))
 # Problem 3
 # Kullanıcıdan 2 tane sayı alarak bu sayıların en küçük ortak katlarını (EKOK) dönen bir tane fonksiyon yazın.
  
-# 12: 2, 3, 4, 6, 12 
-# 24: 2, 3, 4, 6, 8, 12, 24
-# EBOB:24
-
-# 8 : 1, 2, 4, 8
-# 36: 1, 2, 3, 4, 6, 9, 12, 18, 36
-# EBOB:4
 # =============================================================================
 
 
